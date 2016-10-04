@@ -1,19 +1,19 @@
 {
   "name": "heightMatcher",
-  "version": "0.0.1",
+  "homepage": "https://github.com/joostvc/heightMatcher",
+  "description": "",
   "main": "jquery.heightMatcher.js",
-  "ignore": [
-    ".bowerrc",
-    ".gitignore",
-    ".jshintignore",
-    ".jshintrc",
-    "bower.json",
-    "gulpfile.js",
-    "package.json",
-    "README.md"
-  ],
+  "moduleType": [],
+  "license": "MIT",
   "dependencies": {
-    "jquery": "~2.2.0",
-  }
-
+    "jquery": "~2.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
 }
