@@ -1,0 +1,19 @@
+{
+  "name": "heightMatcher",
+  "version": "0.0.1",
+  "main": "jquery.heightMatcher.js",
+  "ignore": [
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gulpfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+  }
+
+}
