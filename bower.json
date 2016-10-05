@@ -2,7 +2,7 @@
   "name": "heightMatcher",
   "homepage": "https://github.com/joostvc/heightMatcher",
   "description": "",
-  "main": "",
+  "main": "jquery.heightMatcher.js",
   "moduleType": [],
   "license": "MIT",
   "ignore": [
