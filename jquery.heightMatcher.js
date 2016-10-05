@@ -7,7 +7,7 @@
         function resize_element(el){
             var sizes = [];
             el.each( function() {
-                sizes.push($(this).outerHeight());
+                sizes.push($(this).height());
             });
             var largest = Math.max.apply(Math, sizes);
 
